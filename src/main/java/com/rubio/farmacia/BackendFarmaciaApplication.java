@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BackendParaUmaFarmaciaApplication {
+public class BackendFarmaciaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BackendParaUmaFarmaciaApplication.class, args);
+		SpringApplication.run(BackendFarmaciaApplication.class, args);
 	}
 
 }
